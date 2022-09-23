@@ -1,0 +1,96 @@
+Arkansas Clinton
+California Nixon
+Connecticut Bush_GW
+Georgia Carter
+Hawaii Obama
+Illinois Reagan
+Iowa Hoover
+Kentucky Lincoln
+Massachusetts Bush_GHW Kennedy
+Missouri Truman
+Nebraska Ford
+New_Hampshire Pierce
+New_Jersey Cleveland
+New_York Fillmore Roosevelt_F Roosevelt_T VanBuren
+North_Carolina Johnson_A Polk
+Ohio Garfield Grant Harding Harrison_B Hayes McKinley Taft
+Pennsylvania Buchanan
+Texas Eisenhower Johnson_L
+Vermont Arthur Coolidge
+Virginia Taylor Tyler Wilson
+
+Arthur Vermont
+Buchanan Pennsylvania
+Bush_GHW Massachusetts
+Bush_GW Connecticut
+Carter Georgia
+Cleveland New_Jersey
+Clinton Arkansas
+Coolidge Vermont
+Eisenhower Texas
+Fillmore New_York
+Ford Nebraska
+Garfield Ohio
+Grant Ohio
+Harding Ohio
+Harrison_B Ohio
+Hayes Ohio
+Hoover Iowa
+Johnson_A North_Carolina
+Johnson_L Texas
+Kennedy Massachusetts
+Lincoln Kentucky
+McKinley Ohio
+Nixon California
+Obama Hawaii
+Pierce New_Hampshire
+Polk North_Carolina
+Reagan Illinois
+Roosevelt_F New_York
+Roosevelt_T New_York
+Taft Ohio
+Taylor Virginia
+Truman Missouri
+Tyler Virginia
+VanBuren New_York
+Wilson Virginia
+
+Adams_J
+Adams_JQ
+Harrison_W
+Jackson
+Jefferson
+Madison
+Monroe
+Washington
+
+Alabama
+Alaska
+Arizona
+Colorado
+Delaware
+Florida
+Idaho
+Indiana
+Kansas
+Louisiana
+Maine
+Maryland
+Michigan
+Minnesota
+Mississippi
+Montana
+Nevada
+New_Mexico
+North_Dakota
+Oklahoma
+Oregon
+Rhode_Island
+South_Carolina
+South_Dakota
+Tennessee
+Utah
+Washington
+West_Virginia
+Wisconsin
+Wyoming
